@@ -22,7 +22,6 @@ def last_evaluated_value
 "expert"
 end
 
-def pizza_party(name="pepperoni")
-"pepperoni"
-"cheese"
+def pizza_party(kind="cheese")
+
 end
