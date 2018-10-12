@@ -24,4 +24,5 @@ end
 
 def pizza_party(name="pepperoni")
 "pepperoni"
+"cheese"
 end
